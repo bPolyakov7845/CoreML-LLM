@@ -1,0 +1,5 @@
+[project]
+name = "coreml-llm"
+version = "0.1.0"
+description = "Run LLMs on Apple devices with CoreML, optimized for Apple Neural Engine + GPU"
+requires-python = ">=3.10"
